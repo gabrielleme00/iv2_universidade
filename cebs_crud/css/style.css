@@ -1,0 +1,23 @@
+body {
+    background-color: #242a30;
+}
+
+.btn-edit {
+    transition: 300ms;
+}
+
+.btn-edit:hover {
+    background-color: #ffbb33;
+    border-color: #ffbb33;
+    transition: 100ms;
+}
+
+.btn-delete {
+    transition: 300ms;
+}
+
+.btn-delete:hover {
+    background-color: #ff4444;
+    border-color: #ff4444;
+    transition: 100ms;
+}
